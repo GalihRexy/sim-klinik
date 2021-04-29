@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209135"],{a808:function(n,e,c){"use strict";c.r(e);var t=c("7a23");function d(n,e){return Object(t["r"])(),Object(t["d"])("div",null," Rekam Medis ")}const r={};r.render=d;e["default"]=r}}]);
+//# sourceMappingURL=chunk-2d209135.760b012a.js.map
